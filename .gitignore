@@ -1,0 +1,5 @@
+# 排除 WorkBuddy 会话私有数据（含个人记忆/配置），不对外开源
+.workbuddy/
+node_modules/
+*.log
+.DS_Store
